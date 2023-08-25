@@ -1,0 +1,36 @@
+.maincomtainer{
+    border:3px solid black;
+    margin: auto;
+    margin-top: 2%;
+    width:30%;
+    height: 290px;
+}
+.inputs{
+    width:60%;
+    height:25px;
+    margin-left: 15%;
+    border:2px solid black;
+}
+#login{
+    margin-left: 40%;
+}
+#sub_div{
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    width:30%;
+    margin-top: 2%;
+}
+
+  
+  .image-gallery img {
+    max-width: 100%;
+    height: auto;
+    transition: opacity 0.3s ease;
+  }
+  
+  .image-gallery img:hover {
+    opacity: 0.7;
+    
+  }
+  
