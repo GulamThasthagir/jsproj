@@ -1,0 +1,9 @@
+#head,#divv{
+    border:2px solid black;
+}
+#div_boxx{
+    border:2px solid black;
+    display: flex;
+    flex-direction: column;
+    display: none;
+}
